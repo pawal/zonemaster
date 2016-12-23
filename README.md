@@ -2,7 +2,7 @@
 
 Build image with ```docker build -t youruser/zonemaster .```
 
-To run my docker image från Docker Hub:
+To run my docker image från [Docker Hub](https://hub.docker.com/r/pawal/zonemaster/):
 
 ```docker pull pawal/zonemaster```
 
