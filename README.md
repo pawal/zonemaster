@@ -1,4 +1,4 @@
-# Zonemaster CLI Docker containter
+# Zonemaster CLI Docker container
 
 Build image with ```docker build -t youruser/zonemaster .```
 
