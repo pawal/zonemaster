@@ -8,4 +8,4 @@ To run my docker image from [Docker Hub](https://hub.docker.com/r/pawal/zonemast
 
 To run the Zonemaster CLI:
 
-```docker run pawal/zonemaster zonemaster-cli example.com```
+```docker run --rm pawal/zonemaster zonemaster-cli example.com```
